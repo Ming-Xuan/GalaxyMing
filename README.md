@@ -1,7 +1,8 @@
 # GalaxyMing
- portfolio
-A portfolio is a grouping of financial assets such as stocks, bonds, commodities, currencies and cash equivalents, as well as their fund counterparts, including mutual, exchange-traded and closed funds
-
+# portfolio
+**A portfolio is a grouping of financial assets such as stocks, bonds, commodities, currencies and cash equivalents, as well as their fund counterparts, including mutual, exchange-traded and closed funds**
+ ```
+ 
 Two Objects(You should consider your risk tolerance and expected value)
-First ,Max Expected returns
-Second ,Min Risk
+> First ,Max Expected returns
+> Second ,Min Risk
