@@ -4,5 +4,8 @@
  
  
 Two Objects(You should consider your risk tolerance and expected value)
-> First ,Max Expected returns
-> Second ,Min Risk
+
+<ol>
+<li>Max Expected returns</li>
+<li>Min Risk</li>
+</ol>
