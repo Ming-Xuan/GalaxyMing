@@ -27,3 +27,18 @@ Portfolio of two assets to give an example
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E5%85%AC%E5%BC%8F1.png?raw=true" >
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E5%85%AC%E5%BC%8F2.png" >
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E5%85%AC%E5%BC%8F3.png" >
+
+<table>
+ <tr>
+  <th></th><th>Expected retuen</th><th>Risk </th> <th>Weight</th>
+ </tr>
+ <tr>
+  <th>Asset1</th><th>0.14</th><th>0.2 </th> <th>w</th>
+ </tr>
+ <tr>
+  <th>Asset2</th><th>0.2</th><th>0.08</th> <th>0.15</th>
+ </tr>
+ <tr>
+  <th>Correlation Coefficient</th><th>0.6</th>
+ </tr>
+</table>
