@@ -9,7 +9,7 @@ Two Objects(You should consider your risk tolerance and expected value)
 <li>Max Expected returns</li>
 <li>Min Risk</li>
 </ol>
-<b>"Don,t Put Your Egg In One Basket"</b>
+<b>"Don,t Put Your Egg In One Basket"</b><br>
 Portfolio of two assets to give an example
 <table>
  <tr>
