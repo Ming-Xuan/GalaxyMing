@@ -23,3 +23,4 @@ Portfolio of two assets to give an example
  </tr>
 </table>
 E(r)=wE(r1)+(1-w)E(r2) <br>
+![png] (https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E5%85%AC%E5%BC%8F1.png)
