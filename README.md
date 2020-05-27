@@ -39,6 +39,6 @@ Portfolio of two assets to give an example
   <th>Asset2</th><th>0.2</th><th>0.08</th> <th>0.15</th>
  </tr>
  <tr>
-  <th>Correlation Coefficient</th><th>0.6</th>
+  <th>Correlation Coefficient</th><th rowspan="2">0.6</th>
  </tr>
 </table>
