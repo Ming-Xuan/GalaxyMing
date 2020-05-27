@@ -22,3 +22,4 @@ Portfolio of two assets to give an example
   <th>Asset2</th><th>E(r2)</th><th>σ2 </th> <th>1-w</th>
  </tr>
 </table>
+E(r)=wE(r1)+(1-w)E(r2) <br>
