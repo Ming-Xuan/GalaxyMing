@@ -22,5 +22,7 @@ Portfolio of two assets to give an example
   <th>Asset2</th><th>E(r2)</th><th>σ2 </th> <th>1-w</th>
  </tr>
 </table>
-E(r)=wE(r1)+(1-w)E(r2) <br>
+ <br>
+<img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E5%85%AC%E5%BC%8F%E6%A8%99%E6%BA%96.gif" >
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E5%85%AC%E5%BC%8F1.png?raw=true" >
+
