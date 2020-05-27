@@ -9,3 +9,4 @@ Two Objects(You should consider your risk tolerance and expected value)
 <li>Max Expected returns</li>
 <li>Min Risk</li>
 </ol>
+**"Don,t Put Your Egg In One Basket"**
