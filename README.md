@@ -10,3 +10,14 @@ Two Objects(You should consider your risk tolerance and expected value)
 <li>Min Risk</li>
 </ol>
 <b>"Don,t Put Your Egg In One Basket"</b>
+<table>
+ <tr>
+  <th></th><th>Expected retuen</th><th>Risk </th> <th>Weight</th>
+ </tr>
+ <tr>
+  <th>Asset1</th><th>E(r1)</th><th>σ1 </th> <th>w</th>
+ </tr>
+ <tr>
+  <th>Asset2</th><th>Expected retuen</th><th>σ2 </th> <th>1-w</th>
+ </tr>
+</table>
