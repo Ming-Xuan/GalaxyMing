@@ -35,14 +35,14 @@ Portfolio of two assets to give an example
   <th></th><th>Expected retuen</th><th>Risk </th> <th>Weight</th>
  </tr>
  <tr>
-  <th>Asset1</th><th>0.14</th><th>0.2 </th> <th>w</th>
+  <th>Asset1</th><th>0.14</th><th>0.2 </th> 
  </tr>
  <tr>
-  <th>Asset2</th><th>0.2</th><th>0.08</th> <th>0.15</th>
+  <th>Asset2</th><th>0.2</th><th>0.08</th> 
  </tr>
  <tr>
   <th>Correlation Coefficient</th>
-  <th colspan="3">0.6</th>
+  <th colspan="2">0.6</th>
  </tr>
 </table>
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E6%8E%A8%E5%80%92.JPG" >
