@@ -32,7 +32,7 @@ Portfolio of two assets to give an example
 
 <table>
  <tr>
-  <th></th><th>Expected retuen</th><th>Risk </th> <th>Weight</th>
+  <th></th><th>Expected retuen</th><th>Risk </th> 
  </tr>
  <tr>
   <th>Asset1</th><th>0.14</th><th>0.2 </th> 
