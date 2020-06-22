@@ -48,5 +48,14 @@ Portfolio of two assets to give an example
 </table>
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E6%8E%A8%E5%80%92.JPG" >
 <br>
+When you invest your assets,must consider three issue.
+
+<ol>
+<li>Risk Tolerance</li>
+<li>
+Asset price fluctuations</li>
+ <li>
+Characteristics of major markets</li>
+</ol>
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/risk.png" >
 
