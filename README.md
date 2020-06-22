@@ -71,5 +71,11 @@ you can see my implentation in my md and how I let it visualize.<br>
 "https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E7%88%AC%E8%9F%B2.md" <br>
 My visualize result is below:
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E8%82%A1%E5%B8%82%E6%8C%87%E6%95%B8.png" >
-
+ Last I wii show you how I do portfolio selection:<br>
+Example
+Portfolio Selection Optimization
+Please arbitrarily pick “Five” assets (including riskless or risky assets) in any negotiable
+securities market (Taiwan or any other country) in 2016-2019. If you would like to achieve a 7%
+expected returns, what’s the allocated percentage of each asset in your portfolio? Given your
+budget is 100%, use Markowitz’s Mean-Variance Model (1952, 1959) to solve the problem.
 
