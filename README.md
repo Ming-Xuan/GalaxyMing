@@ -79,7 +79,7 @@ securities market (Taiwan or any other country) in 2016-2019. If you would like 
 expected returns, what’s the allocated percentage of each asset in your portfolio? Given your
 budget is 100%, use Markowitz’s Mean-Variance Model (1952, 1959) to solve the problem.
 
-<br>
+<br><br><br>
 In order to ensure profit, I chose the top five stocks with the highest net profit after tax in Taiwan for analysis. I expect that the profit of the investment can exceed the fixed deposit and the fund. If I will order about 10%, the stock is For high-risk investments, it is believed that the requirement for high profitability will not be unreasonable because the risk assumed is already very large.
 
 TSMC investment 15%
