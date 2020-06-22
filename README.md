@@ -57,7 +57,7 @@ Characteristics of major markets</li>
 </ol>
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/risk.png" >
 When you Browse your favorite stock,you can use python help you get important information<br>
-you can know when you browse and click f12,you can see the web code in the windowform,
+you can know when you browse and click f12 seeing the web code in the windowform,
 it contains HTML5 CSS javaScript jQuery php and so on......,
 but we can clean noise by python,at its simplest,pandas can help us get html label "table" contents
 I use very easy sample code below:<br>
