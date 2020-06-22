@@ -56,10 +56,10 @@ Asset price fluctuations</li>
 Characteristics of major markets</li>
 </ol>
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/risk.png" >
-When you Browse your favorite stock,you can use python help you get important information
+When you Browse your favorite stock,you can use python help you get important information<br>
 <code>
- import pandas as pd
-url="http://stockq.org/market/asia.php"
-data = pd.read_html(url)
+import pandas as pd<br>
+url="http://stockq.org/market/asia.php"<br>
+data = pd.read_html(url)<br>
 data[7:][0]
 </code>
