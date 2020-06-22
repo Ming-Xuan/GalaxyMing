@@ -60,11 +60,11 @@ When you Browse your favorite stock,you can use python help you get important in
 you can know when you browse and click f12,you can see the web code in the windowform,
 it contains HTML5 CSS javaScript jQuery php and so on......,
 but we can clean noise by python,at its simplest,pandas can help us get html label <table></table> contents
-I use very easy sample code below:
+I use very easy sample code below:<br>
 <code>
 import pandas as pd<br></code>
 <br><code>url="http://stockq.org/market/asia.php"</code>
 <br><code>data = pd.read_html(url)</code>
 <br><code>data[7:][0]</code>
 
-
+<img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E7%B6%B2%E9%A0%81%E7%88%AC.JPG" >
