@@ -67,3 +67,5 @@ import pandas as pd<br></code>
 <br><code>data = pd.read_html(url)</code>
 <br><code>data[7:][0]</code>
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E7%B6%B2%E9%A0%81%E7%88%AC.JPG" >
+"https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E7%88%AC%E8%9F%B2.md" 
+
