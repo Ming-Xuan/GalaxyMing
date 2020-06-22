@@ -47,7 +47,7 @@ Portfolio of two assets to give an example
  </tr>
 </table>
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E6%8E%A8%E5%80%92.JPG" >
-**When you invest your assets,must consider three issue.*
+<b>When you invest your assets,must consider three issue.</b>
 <ol>
 <li>Risk Tolerance</li>
 <li>
