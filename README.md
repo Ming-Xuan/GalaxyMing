@@ -70,6 +70,6 @@ import pandas as pd<br></code>
 you can see my implentation in my md and how I let it visualize.
 "https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E7%88%AC%E8%9F%B2.md" <br>
 My visualize result is below:
-<img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/output_2_0.png" >
+<img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E8%82%A1%E5%B8%82%E6%8C%87%E6%95%B8.png" >
 
 
