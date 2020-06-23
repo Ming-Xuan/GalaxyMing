@@ -94,14 +94,14 @@ https://github.com/Ming-Xuan/GalaxyMing/blob/master/profitlio.md
 
 <br><br><br>
 In order to ensure profit, I chose the top five stocks with the highest net profit after tax in Taiwan for analysis. I expect that the profit of the investment can exceed the fixed deposit and the fund. If I will order about 10%, the stock is For high-risk investments, it is believed that the requirement for high profitability will not be unreasonable because the risk assumed is already very large.<br>
-<img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88.JPG" >
+<img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88.JPG" ><br>
 TSMC investment 15%
 Hon Hai invests 85% to make a profit of more than 7%.
 
 
 
 Reference:
-https://ch-hsieh.blogspot.com/2016/12/markowitzs-mean-variance.html
-https://www.stockfeel.com.tw/%E9%97%9C%E6%96%BC%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88%EF%BC%8C%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%843%E4%BB%B6%E4%BA%8B/
-https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88
+https://ch-hsieh.blogspot.com/2016/12/markowitzs-mean-variance.html Mean Variance Model<br>
+https://www.stockfeel.com.tw/%E9%97%9C%E6%96%BC%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88%EF%BC%8C%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%843%E4%BB%B6%E4%BA%8B/ portfolio <br>
+https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88 Investment portfolio<br>
 
