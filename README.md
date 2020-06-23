@@ -79,7 +79,16 @@ securities market (Taiwan or any other country) in 2016-2019. If you would like 
 expected returns, what’s the allocated percentage of each asset in your portfolio? Given your
 budget is 100%, use Markowitz’s Mean-Variance Model (1952, 1959) to solve the problem.
 <br>
-You can see my Portfolio in my makedown.
+This Problem I use Markowitz's Mean-Variance Model to solve it.
+This model use mean and variance to evaluate performance.
+Assuming that portfolio P1 has a higher expected return and lower variance than another portfolio P2 (that is, E1>E2 and σ21<σ22), then we call P1 dominates P2.
+
+We call P1 dominate P2 in minimum variance sense if σ1<σ2.
+Comment:
+1. The above strict inequality> can be replaced by a weaker inequality ≥.
+2. The above three efficient investment portfolios (absolute efficient, efficient in variance sense, efficient in expected return sense) are generally called efficient, and no distinction is made. Incidentally, this type of efficient portfolio will fall on the so-called efficient frontier. Interested readers can refer to related books on general investment theory or asset allocation theory, and I won’t repeat them here.
+
+You can see my Portfolio implementation in my makedown.
 https://github.com/Ming-Xuan/GalaxyMing/blob/master/profitlio.md
 
 
@@ -88,4 +97,11 @@ In order to ensure profit, I chose the top five stocks with the highest net prof
 <img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88.JPG" >
 TSMC investment 15%
 Hon Hai invests 85% to make a profit of more than 7%.
+
+
+
+Reference:
+https://ch-hsieh.blogspot.com/2016/12/markowitzs-mean-variance.html
+https://www.stockfeel.com.tw/%E9%97%9C%E6%96%BC%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88%EF%BC%8C%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%843%E4%BB%B6%E4%BA%8B/
+https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88
 
