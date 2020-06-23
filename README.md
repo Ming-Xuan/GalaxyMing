@@ -81,9 +81,11 @@ budget is 100%, use Markowitz’s Mean-Variance Model (1952, 1959) to solve the 
 <br>
 You can see my Portfolio in my makedown.
 https://github.com/Ming-Xuan/GalaxyMing/blob/master/profitlio.md
-<br><br><br>
-In order to ensure profit, I chose the top five stocks with the highest net profit after tax in Taiwan for analysis. I expect that the profit of the investment can exceed the fixed deposit and the fund. If I will order about 10%, the stock is For high-risk investments, it is believed that the requirement for high profitability will not be unreasonable because the risk assumed is already very large.
 
+
+<br><br><br>
+In order to ensure profit, I chose the top five stocks with the highest net profit after tax in Taiwan for analysis. I expect that the profit of the investment can exceed the fixed deposit and the fund. If I will order about 10%, the stock is For high-risk investments, it is believed that the requirement for high profitability will not be unreasonable because the risk assumed is already very large.<br>
+<img src="https://github.com/Ming-Xuan/GalaxyMing/blob/master/%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88.JPG" >
 TSMC investment 15%
 Hon Hai invests 85% to make a profit of more than 7%.
 
